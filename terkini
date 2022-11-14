@@ -97,6 +97,11 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
+#EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="Berita",ASTRO AWANI HD (A)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
+
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 http://103.55.144.46/hls/qurqntv.m3u8
@@ -516,16 +521,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
 #EXTINF:-1 tvg-id="550" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png" group-title="Knowledge",NAT GEO WILD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
-#EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="Berita",ASTRO AWANI HD (A)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.thewebbureau.ie/media/1347/love-nature-3.png" group-title="Knowledge",LOVENATURE4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.thewebbureau.ie/media/1347/love-nature-3.png" group-title="Knowledge",LOVENATUREFHD
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2111
+#EXTINF:-1 tvg-id="714" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-title="Series",CRIME+INVESTIGATION
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
 ******************************KARTUN*****************************************
 
@@ -536,7 +541,6 @@ https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142672.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Kartun",Astro Ceria HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5024
@@ -976,13 +980,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/scm.png" group-title="Chinese",SCM HD
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/scm.png" group-title="Chinese",SCM HD
 http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/171981
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/svm%20legend.png" group-title="Chinese",SCM Legend HD
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/svm%20legend.png" group-title="Chinese",SCM Legend HD
 https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 
 
@@ -1115,19 +1119,9 @@ http://210.210.155.35/dr9445/h/h04/index.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
-#EXTINF:-1 tvg-id="713" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" group-title="Series",PARAMOUNT NETWORK
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049
 #EXTINF:-1 tvg-id="704" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="Series",PRIMETIME
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/714
-#EXTINF:-1 tvg-id="714" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-title="Series",CRIME+INVESTIGATION
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png" group-title="Series",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1160,7 +1154,7 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/607
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/KIX_HD_v1.png" group-title="Series",KIX (A)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_primary.mpd
 
 
 ===============================================================================================================================
@@ -1191,14 +1185,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #EXTINF:-1 tvg-id="CH802" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sukan",Astro Arena 2 (A)
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sukan", Astro Supersport Plus
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 
 #EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sukan", ASTRO SUPERSPORT
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142712.m3u8
+#https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142712.m3u8
+https://webudi.openhd.lol/lb/premium123/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
 #EXTINF:-1 tvg-id="CH811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sukan", ASTRO SUPERSPORT (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1206,51 +1200,64 @@ https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142712.m3u8
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="812" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sukan", ASTRO SUPERSPORT 2
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142713.m3u8
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
+#https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142713.m3u8
+https://webudi.openhd.lol/lb/premium124/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
 #EXTINF:-1 tvg-id="CH812" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sukan", ASTRO SUPERSPORT 2 (A)
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
 http://51.81.208.129:35461/80203081502/656678/655
 
 #EXTINF:-1 tvg-id="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sukan", ASTRO SUPERSPORT 3
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142714.m3u8
+#https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142714.m3u8
+https://webudi.openhd.lol/lb/premium125/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
 #EXTINF:-1 tvg-id="CH813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sukan", ASTRO SUPERSPORT 3 (A)
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
 http://51.79.82.208:16062/
 
 #EXTINF:-1 tvg-id="814" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sukan", ASTRO SUPERSPORT 4
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142715.m3u8
+#https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142715.m3u8
+https://webudi.openhd.lol/lb/premium126/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
 #EXTINF:-1 tvg-id="CH814" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sukan", ASTRO SUPERSPORT 4 (A)
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115618&extension=ts&play_token
 
 #EXTINF:-1 tvg-id="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sukan", ASTRO SUPERSPORT 5
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142716.m3u8
+#https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142716.m3u8
+https://webudi.openhd.lol/lb/premium43/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
 #EXTINF:-1 tvg-id="CH815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sukan", ASTRO SUPERSPORT 5 (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d96d4ec1a73623b5789d78a48b829d10:1ca8dd93af16c84fa1ef5f1b761a03e3
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="Sukan",BEIN SPORTS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d2ba38cc488e535fa42059493357c10:c48de9b1683be561fa63ab547391975d
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5013
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Sukan",BEIN SPORTS 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec837724b4265d2e127e65c542aee410:0ce930620687ab1df1cf6544f2dc0013
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Sukan",BEIN SPORTS 3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
+#EXTINF:-1 tvg-id="beINSports4" group-title="Sukan" ch-number="809" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png", beIN Sports 4 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01cde7c31b1a3ea2aa7a6f579a0f4610:710f5ebe6bb2d50978ef0e5aa5fc69d4
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
+
+#EXTINF:-1 tvg-id="beINSports5" group-title="Sukan" ch-number="808" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png", beIN Sports 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5086
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="Sukan", SPOTV
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 
@@ -1260,24 +1267,29 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7299bdb9de13b235cda94cd5063ab810:247ed97854d185349998873672294cad
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2100
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-title="Sukan",EUROSPORT
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=782f32d9501ac50dfd783671ade95210:9690dcf2368b1664680a8099125ccca9
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="Sukan",WWE NETWORK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bef29d5caac3628eb1efae8a215fae10:645a0014ea459a86cfa72cf8137bb4a7
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="Sukan",GOLF CHANNEL
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a5ce785d63f164f5be079a0aa9b6210:d388cbf715f1bb08901a55a7db7f26c0
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="Sukan",ASTRO CRICKET
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601
+#EXTINF:-1 tvg-id="823" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Sukan",Premier Sport
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sukan",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -1310,7 +1322,7 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="Sukan", Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://networkbest.ru.com/cdn/premium130/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium130/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/2kPW5qw.png" group-title="Sukan", Sky Sports F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1320,24 +1332,24 @@ https://networkbest.ru.com/cdn/premium60/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="Sukan", Sky Sports Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://networkbest.ru.com/cdn/premium35/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium35/index.m3u8
 
-#EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://i.imgur.com/tPxIkmd.png" group-title="Sukan", Premier Sports 1
+EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://i.imgur.com/tPxIkmd.png" group-title="Sukan", Premier Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://networkbest.ru.com/cdn/premium451/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PremierSports2.ie" tvg-logo="https://i.imgur.com/PhUx6yK.png" group-title="Sukan", Premier Sports 2
+EXTINF:-1 tvg-id="PremierSports2.ie" tvg-logo="https://i.imgur.com/PhUx6yK.png" group-title="Sukan", Premier Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://networkbest.ru.com/cdn/premium550/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0oyD2wb.png" group-title="Sukan", K+ Sport 1
+EXTINF:-1 tvg-logo="https://i.imgur.com/0oyD2wb.png" group-title="Sukan", K+ Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=1fe5426280a93352b2d7f36ff3422772:eb024058f8c54948a124d6239afd783e 
 https://smarttv-drm.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0MWJveF8yMDAwLnN0cmVhbXxvdGhlcnwxNjUzMTMxNTI4fDEwMy4yMDAuMjIuMjEyfDc3NmY3NzI2NWU4YjJmZTBhOGRkY2QzYWU0YjUzZjBm/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AcJPeLK.png" group-title="Sukan", K+ Sport 2
+EXTINF:-1 tvg-logo="https://i.imgur.com/AcJPeLK.png" group-title="Sukan", K+ Sport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f673aeef24dc3f4ba6437ef3b37cfa92:d485c33b5af849911b3b5fc212188098 
 https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0Ml8yMDAwLnN0cmVhbXxvdGhlcnwxNjUzMTMxNTA0fDEwMy4yMDAuMjIuMjEyfGNiMzExOTU5NjRjYjk0YjQ0NjNjMGFmMjdkNTU1OTg2/drmlive/14022022k1sport2_4000.stream/manifest.mpd
@@ -1345,20 +1357,20 @@ https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0Ml8yMDAwLnN0cm
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="Sukan", BeIN Sports Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://networkbest.ru.com/cdn/premium98/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium98/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="Sukan", BeIN Sports Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://networkbest.ru.com/cdn/premium99/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium99/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="Sukan", BeIN Sports Premium 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://networkbest.ru.com/cdn/premium100/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium100/index.m3u8
 
-EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-logo="https://i.imgur.com/uYcwFSD.png" group-title="Sukan", BeIN Sports Xtra 1
-http://1tv1.net:8080/live/nazha2021/123456/165086.m3u8
+#EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-logo="https://i.imgur.com/uYcwFSD.png" group-title="Sukan", BeIN Sports Xtra 1
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
 EXTINF:-1 tvg-id="beINSportsXtra2.qa" tvg-logo="https://i.imgur.com/Q9ACq0T.png" group-title="Sukan", BeIN Sports Xtra 2
 http://1tv1.net:8080/live/nazha2021/123456/165087.m3u8
