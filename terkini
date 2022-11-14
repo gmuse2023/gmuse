@@ -1177,9 +1177,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 http://51.79.82.208:16058
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142710.m3u8
 
+#EXTINF:-1 tvg-id="802" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sukan",Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
-#EXTINF:-1 tvg-id="802" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sukan",Astro Arena 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #EXTINF:-1 tvg-id="CH802" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sukan",Astro Arena 2 (A)
