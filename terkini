@@ -282,7 +282,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
 #EXTINF:-1 tvg-id="306" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png" group-title="Chinese",ASTRO AEC HD
-http://iptv12k.com:35461/80201100806/423322/4341
+ASTRO,http://iptv12k.com:35461/80201100806/423322/709
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="AstroVinmeenHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="INDIAN",Astro Vinmeen
 http://iptv12k.com:35461/80201100806/423322/675
@@ -320,7 +320,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 #EXTINF:-1 tvg-id="BoxOfficeThangathirai" ch-number="BoxOfficeThangathirai" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="INDIAN",ABO THANGATHIRAI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+http://iptv12k.com:35461/80201100806/423322/678
 
 #EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
