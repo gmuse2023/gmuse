@@ -1502,11 +1502,11 @@ https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606
 http://tv.zonanime.my.id/vidio/sctv.m3u8
 
 #EXTINF:-1 tvg-id="CitraDrama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="INDONESIA",CitraDrama
-#EXT-X-VERSION:7
-#EXT-X-STREAM-INF:BANDWIDTH=87835,RESOLUTION=426x240,CODECS="avc1.640015"
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x721
 #EXTVLCOPT:http-referer=http://tv.zonanime.my.id
 http://tv.zonanime.my.id/vidio/citradrama.m3u8
-http://tvn.x10.mx/1/master-1.m3u8?dl=1
+#http://tvn.x10.mx/1/master-1.m3u8?dl=1
 
 EXTINF:-1 tvg-id="Citra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20191014052642" group-title="INDONESIA",CitraEntertainment
 #http://tv.zonanime.my.id/vidio/citraentertainment.m3u8
