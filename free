@@ -1204,7 +1204,11 @@ http://iptvtree.net:8080/adastream/8289548ca0/11511
 #http://102.222.232.18:9981/stream/channelid/1581697754?ticket=46CB4B87390596A763F8ADE457512D908E4529F9&profile=matroska
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-logo="https://imgur.com/K8YUMMt.png" group-title="🎥 Movies 🎥",Star World HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="🎥 Movies 🎥",Star Movies (A)
+http://line.premiumpowers.net/b6126cb61b/8021f2d210/155727
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVhPGgc/SMSHD.png%22,Star" group-title="🎥 Movies 🎥",Star Movies Select HD
+http://line.premiumpowers.net/b6126cb61b/8021f2d210/155729
 #http://103.55.144.46/hls/star-worldhd.m3u8
 #http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
@@ -1218,8 +1222,8 @@ http://iptvtree.net:8080/adastream/8289548ca0/16958
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="🎥 Movies 🎥",& Prive
 http://iptvtree.net:8080/adastream/8289548ca0/49557
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="🎥 Movies 🎥",Movies Now (A)
-http://102.222.232.18:9981/stream/channelid/1207885176?ticket=40A1BB740F9763CD5F05C7D92777C0A12AE8E443&profile=matroska
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="🎥 Movies 🎥",Movies Now (A)
+http://line.premiumpowers.net/b6126cb61b/8021f2d210/282651
 http://103.55.144.46/hls/movies-now.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="🎥 Movies 🎥",Movies Now
