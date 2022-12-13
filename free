@@ -481,9 +481,9 @@ https://aqfadtv.xyz/live/warna
 
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Mustika",Astro Warna HD (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_ott.mpd
-http://line.premiumpowers.net:80/Manuel/1234567/941609
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5086
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default_ott.mpd
+
 
 EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Mustika",Astro Warna
 https://stream.zeehanzgadget.com/warna
@@ -493,6 +493,7 @@ http://line.premiumpowers.net:80/Manuel/1234567/571231
 #https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
 
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Mustika",Astro Warna HD (B)
+http://line.premiumpowers.net:80/Manuel/1234567/941609
 http://139.99.96.163:2095/live/User48278/tBw10zkne9/13.ts
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142670.m3u8
 
