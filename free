@@ -52,8 +52,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-id="147" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MYTV", NTV7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/707
-https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
+https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
 EXTINF:-1 tvg-id="147" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MYTV", NTV7 (A)
 http://51.79.82.208:16004
@@ -62,8 +63,9 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVp8d3rAspESy884So
 
 #EXTINF:-1 tvg-id="148" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="MYTV",8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/911
-https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
+https://aqfadtv.xyz/live/8tv/index.mpd
 
 EXTINF:-1 tvg-id="148" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="MYTV",8TV (A)
 http://51.79.82.208:16005
@@ -72,8 +74,9 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcrVUsLzz6itjclMRq
 
 #EXTINF:-1 tvg-id="149" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-title="MYTV", TV9 (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/705
-https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
+https://aqfadtv.xyz/live/tv9/index.mpd
 
 #EXTINF:-1 tvg-id="149" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-title="MYTV", TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
