@@ -51,19 +51,29 @@ https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXdJmdY84MMxQxm5QJ7
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-id="147" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MYTV", NTV7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/707/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
+
+#EXTINF:-1 tvg-id="147" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MYTV", NTV7 (A)
 http://51.79.82.208:16004
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVp8d3rAspESy884SoLnTKMNg9hhd10G1uIp_aw0pgw-)/dm/3/x6qp6ou/s/live-3.m3u8
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVp8d3rAspESy884SoLnTKMNg9hhd10G1uIp_aw0pgw-)/dm/3/x6qp6ou/s/stream-3-1667096074.ts
 
 #EXTINF:-1 tvg-id="148" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="MYTV",8TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/911/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
+
+#EXTINF:-1 tvg-id="148" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="MYTV",8TV (A)
 http://51.79.82.208:16005
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcrVUsLzz6itjclMRqQUoB2po-0Fptaqeh2CTHo7M3g3)/dm/3/x6qud17/s/live-3.m3u8
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcrVUsLzz6itjclMRqQUoB2po-0Fptaqeh2CTHo7M3g3)/dm/3/x6qud17/s/stream-3-1667096156.ts
 
 #EXTINF:-1 tvg-id="149" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-title="MYTV", TV9 (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-https://aqfadtv.xyz/live/tv9/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/705/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
 
 #EXTINF:-1 tvg-id="149" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-title="MYTV", TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -74,15 +84,15 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 tvg-id="DramaSangat" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="MYTV", DRAMA SANGAT HD
 https://stream.zeehanzgadget.com/dramasangat
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0pkmcNREEKOjwXFbhcts0VCBqvju94hCyMnlBnB24qZL)/dm/3/x6zvnex/s/live-3.m3u8
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0vxE9fazrMcXcCbUlXVS7p4gCofK1AjrstaVNmbCbvwG)/dm/3/x6zvnex/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="DramaSangat" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="MYTV", DRAMA SANGAT HD (A)
-https://stream-02.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXY9_GqvRd4kseaDnJ0fdFyk2kBY3eh8Tj37JD2_nyDwTzlin2hj0yeEyJdwQ_BjH9Q)/dm/3/x6zvnex/s/live-1.m3u8
-https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXY9_GqvRd4kseaDnJ0fdFyk2kBY3eh8Tj37JD2_nyDwTzlin2hj0yeEyJdwQ_BjH9Q)/dm/3/x6zvnex/s/live-5.m3u8
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0vxE9fazrMcXcCbUlXVS7p4gCofK1AjrstaVNmbCbvwG)/dm/3/x6zvnex/s/live-1.m3u8
+https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0vxE9fazrMcXcCbUlXVS7p4gCofK1AjrstaVNmbCbvwG)/dm/3/x6zvnex/s/live-5.m3u8
 
 #EXTINF:-1 tvg-id="114" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" group-title="MYTV",TV AlHijrah 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113/
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113/
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #EXTINF:-1 tvg-id="114" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" group-title="MYTV",TV Alhijrah (A)
@@ -102,7 +112,7 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 #EXTINF:-1 tvg-id="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="MYTV", AWESOME TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
