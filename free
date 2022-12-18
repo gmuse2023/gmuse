@@ -159,7 +159,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="MYTV",HYYP Sensasi 
+#EXTINF:-1 tvg-logo="https://nitter.pussthecat.org/pic/profile_images%2F983556501141770240%2FKZq2awDx_400x400.jpg" group-title="MYTV",HYYP Sensasi 
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="MYTV",Astro Sensasi 
