@@ -585,8 +585,8 @@ http://iptv12k.com:35461/80201100806/423322/300
 http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 http://iptv12k.com:35461/80201100806/423322/299
 
-EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Knowledge", DISCOVERY TURBO
-http://iptv12k.com:35461/80201100806/423322/7590
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Knowledge", DISCOVERY TURBO
+http://51.81.208.129:35461/80203091402/213445/7590
 
 #EXTINF:-1 tvg-id="555" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="Knowledge",HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -690,8 +690,8 @@ https://av-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 *****************************************************************************
 
 
-EXTINF:-1 tvg-id="611" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Kartun",Astro Ceria HD (A)
-http://iptv12k.com:35461/80201100806/423322/13401
+#EXTINF:-1 tvg-id="611" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Kartun",Astro Ceria HD (A)
+http://51.81.208.129:35461/80203091402/213445/13401
 #https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142672.m3u8
 
 #EXTINF:-1 tvg-id="611" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Kartun",Astro Ceria HD
