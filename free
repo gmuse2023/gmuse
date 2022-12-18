@@ -503,13 +503,14 @@ http://139.99.96.163:2095/live/User48278/tBw10zkne9/13.ts
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142670.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Mustika",Astro Citra HD
-http://line.premiumpowers.net:80/Manuel/1234567/571276
+http://51.81.208.129:35461/80203091402/213445/721
 https://stream.zeehanzgadget.com/citra
 
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Mustika",Astro Citra HD (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
-https://aqfadtv.xyz/live/citra
+#https://aqfadtv.xyz/live/citra
+http://51.81.208.129:35461/80203091402/213445/13610
 
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Mustika",Astro Citra HD (B)
 http://iptv12k.com:35461/80201100806/423322/13610
