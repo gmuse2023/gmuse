@@ -1254,9 +1254,6 @@ EXTINF:-1 tvg-logo="https://imgur.com/K8YUMMt.png" group-title="🎥 Movies 🎥
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/starselect
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest?cb=20190626075812" group-title="🎥 Movies 🎥",& Pictures
-http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/16958.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="🎥 Movies 🎥",& Prive
 http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/49557.m3u8
 
@@ -1313,11 +1310,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff8c7086
 #EXTINF:-1 tvg-logo="https://d347bo4ltvvnaz.cloudfront.net/images/NEW-KS_Hi-Yah_HY_ES_Logo_157x157.jpg" group-title="🎥 Movies 🎥",Hi-YAH!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="🎥 Movies 🎥",Fox Action Movies
-http://iptv12k.com:35461/80201100806/423322/13475
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="🎥 Movies 🎥",Fox Action Movies
+http://51.81.208.129:35461/80203091402/213445/13475
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" group-title="🎥 Movies 🎥",Fox Family Movies
-http://iptv12k.com:35461/80201100806/423322/611
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" group-title="🎥 Movies 🎥",Fox Family Movies
+http://51.81.208.129:35461/80203091402/213445/611
 
 
 **************************************
@@ -1435,25 +1432,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 ***************************************
 
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://imgur.com/1GuSyCr.png",&Pictures HD
-http://103.55.144.46/hls/andpictures.m3u8
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/16958.m3u8
 
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://imgur.com/FepIOFs.png",Sony Max HD
-http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/1359.m3u8
 
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://imgur.com/56bLnJP.png",Star Gold HD
-http://103.55.144.46/hls/stargold.m3u8
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/1070.m3u8
 
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://imgur.com/G0fh0PU.png",Star Gold 2
-http://103.55.144.46/hls/stargold2hd.m3u8
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/43919.m3u8
 
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://imgur.com/KRjdRnV.png",Colors Cineplex HD
-http://103.55.144.46/hls/colorscineplex.m3u8
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/19741.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
-http://103.55.144.46/hls/sonyen.m3u8
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/281867.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://imgur.com/KRjdRnV.png",Colors HD
-http://103.55.144.46/hls/colore-tv-hd.m3u8
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/1366.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Hindi Movies",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
@@ -1676,11 +1673,8 @@ https://av-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
-EXTINF:-1 tvg-logo="https://getlogo.net/wp-content/uploads/2019/08/axn-white-logo-vector.png" group-title="Series",AXN WHITE
-http://iptv12k.com:35461/80201100806/423322/10551
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Series",AXN (B)
-http://iptv12k.com:35461/80201100806/423322/180
+#EXTINF:-1 tvg-logo="https://getlogo.net/wp-content/uploads/2019/08/axn-white-logo-vector.png" group-title="Series",AXN WHITE
+http://51.81.208.129:35461/80203091402/213445/10551
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png" group-title="Series",KIX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -2046,22 +2040,22 @@ https://bcovlive-a.akamaihd.net/f210a9077e364c959f45e56990e8aeef/ap-northeast-1/
 #EXTINF:-1 tvg-id="CHN" group-title="🏅 Sukan 🏅" tvg-logo="https://i.ibb.co/Zx2gQb0/unnamed.png", Spotv Now 4
 https://bcovlive-a.akamaihd.net/c9053e496b884f45806493074da15f6e/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="🏅 Sukan FWC 🏅", ASTRO FWC 1
+EXTINF:-1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="🏅 Sukan FWC 🏅", ASTRO FWC 1
 https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
-#EXTINF:-1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="🏅 Sukan FWC 🏅", ASTRO FWC 2
+EXTINF:-1 tvg-id="815" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="🏅 Sukan FWC 🏅", ASTRO FWC 2
 https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
-#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="🏅 Sukan FWC 🏅",beIN SPORTS MAX 1 
+EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max1.png" group-title="🏅 Sukan FWC 🏅",beIN SPORTS MAX 1 
 https://webudi.openhd.lol/lb/premium296/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="🏅 Sukan FWC 🏅",beIN SPORTS MAX 2 
+EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max2.png" group-title="🏅 Sukan FWC 🏅",beIN SPORTS MAX 2 
 https://webudi.openhd.lol/lb/premium297/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max3.png" group-title="🏅 Sukan FWC 🏅",beIN SPORTS MAX 3 
+EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max3.png" group-title="🏅 Sukan FWC 🏅",beIN SPORTS MAX 3 
 https://webudi.openhd.lol/lb/premium298/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="🏅 Sukan FWC 🏅",beIN SPORTS MAX 4 
+EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-max4.png" group-title="🏅 Sukan FWC 🏅",beIN SPORTS MAX 4 
 https://webudi.openhd.lol/lb/premium299/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 ***********************************************************************************************************************************************
 *******************************************************📻 RADIO 📻*****************************************************************************
