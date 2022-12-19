@@ -19,6 +19,9 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
 #EXTM3U url-tvg="https://bit.ly/aqfadtvepg"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml,https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml,https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml,https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml,https://bit.ly/aqfadtvepg 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/mytv.xml,https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml
 
 *****************************************************************************************************************************************************
 ************Free NOT FOR SALE**********DILARANG URUSNIAGA GUNA PLAYLIST INI ***************KEGUNAAN SENDIRI SAHAJA***********************************
