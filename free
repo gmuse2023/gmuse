@@ -13,6 +13,12 @@
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml, https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"
 #EXTM3U billed-msg="🔥Free Not For Sale,DILARANG URUSNIAGA GUNA PLAYLIST INI,*Private USE ONLY 🔥"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/Plex/all.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/Plex/us.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+#EXTM3U url-tvg="https://bit.ly/aqfadtvepg"
 
 *****************************************************************************************************************************************************
 ************Free NOT FOR SALE**********DILARANG URUSNIAGA GUNA PLAYLIST INI ***************KEGUNAAN SENDIRI SAHAJA***********************************
@@ -90,8 +96,8 @@ https://stream.zeehanzgadget.com/dramasangat
 https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0vxE9fazrMcXcCbUlXVS7p4gCofK1AjrstaVNmbCbvwG)/dm/3/x6zvnex/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="DramaSangat" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="MYTV", DRAMA SANGAT HD (A)
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0vxE9fazrMcXcCbUlXVS7p4gCofK1AjrstaVNmbCbvwG)/dm/3/x6zvnex/s/live-1.m3u8
-https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0vxE9fazrMcXcCbUlXVS7p4gCofK1AjrstaVNmbCbvwG)/dm/3/x6zvnex/s/live-5.m3u8
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0ger7PqZvT5LjvQugHQIJCXD_QbZDsMdgWt2OrPU2COQ)/dm/3/x6zvnex/s/live-1.m3u8
+https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0ger7PqZvT5LjvQugHQIJCXD_QbZDsMdgWt2OrPU2COQ)/dm/3/x6zvnex/s/live-5.m3u8
 
 #EXTINF:-1 tvg-id="114" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" group-title="MYTV",TV AlHijrah 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -304,47 +310,47 @@ EXTINF:-1 tvg-id="NationalGeographicAsia.us" status="online" user-agent="Mozilla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicWildAsia.hk" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Vietnam",National Geographic Wild Asia
+EXTINF:-1 tvg-id="NationalGeographicWildAsia.hk" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Vietnam",National Geographic Wild Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Kix.hk" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Vietnam",Kix
+EXTINF:-1 tvg-id="Kix.hk" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Vietnam",Kix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Vietnam",Dreamworks Channel Asia
+EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Vietnam",Dreamworks Channel Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="HBOAsia.sg" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Vietnam",HBO Asia
+EXTINF:-1 tvg-id="HBOAsia.sg" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Vietnam",HBO Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Vietnam",CBeebies Asia
+EXTINF:-1 tvg-id="CBeebiesAsia.uk" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Vietnam",CBeebies Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="CinemaxAsia.sg" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" group-title="Vietnam",Cinemax Asia
+EXTINF:-1 tvg-id="CinemaxAsia.sg" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" group-title="Vietnam",Cinemax Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AnimaxAsia.sg" status="online" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="Vietnam",Animax Asia
+EXTINF:-1 tvg-id="AnimaxAsia.sg" status="online" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="Vietnam",Animax Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BabyTVAsia.uk" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Vietnam",Baby TV Asia
+EXTINF:-1 tvg-id="BabyTVAsia.uk" status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Vietnam",Baby TV Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OVqKDpJ.png" group-title="Vietnam",On Football
+EXTINF:-1 tvg-logo="https://i.imgur.com/OVqKDpJ.png" group-title="Vietnam",On Football
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e1.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ix8Pm5R.png" group-title="Vietnam",On Sports
+EXTINF:-1 tvg-logo="https://i.imgur.com/ix8Pm5R.png" group-title="Vietnam",On Sports
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eEXU8nf.png" group-title="Vietnam",On Sports+
+EXTINF:-1 tvg-logo="https://i.imgur.com/eEXU8nf.png" group-title="Vietnam",On Sports+
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
 
@@ -890,20 +896,27 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd2550007
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="812" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 2 HD TH MY
-https://webudi.openhd.lol/lb/premium124/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
 
 #EXTINF:-1 tvg-id="813" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 3 HD TH MY
-https://webudi.openhd.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 
 #EXTINF:-1 tvg-id="814" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 4 HD TH MY
-https://webudi.openhd.lol/lb/premium126/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
 #EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORTS 5 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 5 HD TH MY
 https://webudi.openhd.lol/lb/premium43/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="" tvg-name="Ch8 TH" tvg-logo="https://photos.live-tv-channels.org/tv-logo/th-thai-channel-8-7151.jpg" group-title="Thailand",Channel 8 TH
-http://freelive2.inwstream.com:1935/freelive-edge/ch8/playlist.m3u8
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115644
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/281631.m3u8
+#http://freelive2.inwstream.com:1935/freelive-edge/ch8/playlist.m3u8
+#http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115644
 
 #EXTINF:-1 tvg-id="" tvg-name="Channel 3 TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ch3HDLogo.png/400px-Ch3HDLogo.png" group-title="Thailand",Channel 3 TH
 http://freelive2.inwstream.com:1935/freelive-edge/3hd/playlist.m3u8
@@ -914,11 +927,13 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115641
 
 #EXTINF:-1 tvg-id="" tvg-name="Channel 7 HD TH" tvg-logo="https://www.clipartmax.com/png/middle/287-2878033_channel-7-thailand-3d-channel-7-thailand-logo.png" group-title="Thailand",Channel 7 HD TH
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115642
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/266868.m3u8
+#http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115642
 
 #EXTINF:-1 tvg-id="" tvg-name="MONO29 TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Thailand",MONO29 TH
-http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115728
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/146760.m3u8
+#http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8
+#http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115728
 
 EXTINF:-1 tvg-id="" tvg-name="MONO29 TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Thailand",MONO29 TH (B)
 http://61.19.242.134/feed/202105171329/chmono29/index.m3u8
@@ -926,10 +941,14 @@ http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8
 http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8?MURLSTVrVStWUnNPNHB6eXNxU0c0dUs5S0liT0JEZTU1K2F6b1BURVVSTEErcmZKZGxpWXZtL2JjaTVqWW56a2xCZFdldXRNcDJ4Mzc2Ni9FNEd5ckc3dGFJS3NvNFZ0a0ZPV0xTbTRCSE5LSmZwZ051dWR1dnN5TlpaeFVQZmZna0R4WlA0QmgvaTYyeGdCeVhWcHBRPT0=,f72f35a1f035a78e0b98e3e29227b6b6
 
 #EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="https://www.pngkey.com/png/detail/89-892218_pptv-hd-pptv.png" group-title="Thailand",PPTV HD TH
-http://freelive2.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/281639.m3u8
+#http://freelive2.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="True4U TH" tvg-logo="https://contentthailand.com/wp-content/uploads/2021/08/true4u.png" group-title="Thailand",True4U TH
 http://freelive2.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Sony Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/28c7e9737ee26c315462ed73d29edccd.png" group-title="Thailand",Sony Asia TH
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/174662.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="THAILAND",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
