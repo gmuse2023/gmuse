@@ -525,7 +525,7 @@ http://139.99.96.163:2095/live/User48278/tBw10zkne9/13.ts
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142670.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Mustika",Astro Citra HD
-http://51.81.208.129:35461/80203091402/213445/721
+http://iptv12k.com:35461/80201100806/423322/721
 https://stream.zeehanzgadget.com/citra
 
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Mustika",Astro Citra HD (A)
@@ -608,7 +608,7 @@ http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&
 http://iptv12k.com:35461/80201100806/423322/299
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Knowledge", DISCOVERY TURBO
-http://51.81.208.129:35461/80203091402/213445/7590
+http://iptv12k.com:35461/80201100806/423322/7590
 
 #EXTINF:-1 tvg-id="555" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="Knowledge",HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1313,11 +1313,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff8c7086
 #EXTINF:-1 tvg-logo="https://d347bo4ltvvnaz.cloudfront.net/images/NEW-KS_Hi-Yah_HY_ES_Logo_157x157.jpg" group-title="🎥 Movies 🎥",Hi-YAH!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="🎥 Movies 🎥",Fox Action Movies
-http://51.81.208.129:35461/80203091402/213445/13475
+EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="🎥 Movies 🎥",Fox Action Movies
+http://iptv12k.com:35461/80201100806/423322/13475
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" group-title="🎥 Movies 🎥",Fox Family Movies
-http://51.81.208.129:35461/80203091402/213445/611
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" group-title="🎥 Movies 🎥",Fox Family Movies
+http://iptv12k.com:35461/80201100806/423322/611
 
 
 **************************************
